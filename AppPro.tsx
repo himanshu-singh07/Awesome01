@@ -9,7 +9,6 @@ import {
     Button,
     StyleSheet,
     useColorScheme,
-    TouchableOpacity,
     Image,
     TextInput
 } from 'react-native';
